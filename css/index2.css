@@ -1,0 +1,195 @@
+/* 
+Template Name: Greatly - The Multipurpose HTML5 Template
+Author: envatoprime
+Author Email: envatoprime@gmail.com
+Version: 1.00
+*/
+
+
+
+
+.section-heading span
+{
+  color: #5f4c8b;
+}
+.reflection-text div i {
+  color: #5f4c8b;
+}
+.reflection-text div .one
+{
+  background: #5f4c8b;
+}
+.reflection-text div .two {
+  background: #5f4c8b;
+}
+.mybtn {
+  background-color: #5f4c8b;
+}
+nav.navbar-fixed .main-logo span {
+  color: #5f4c8b;
+}
+nav.navbar-fixed ul li a::before {
+  background: #5f4c8b;
+}
+
+nav.navbar-fixed .navbar-nav li a:hover {
+  color: #5f4c8b;
+}
+
+nav.navbar-fixed .navbar-nav li a:hover {
+  color: #5f4c8b;
+}
+nav.navbar-fixed .navbar-nav li a.active {
+  color: #5f4c8b;
+}
+.video-play-button:before {
+  background: #5f4c8b;
+}
+.video-play-button:after {
+  background: #5f4c8b;
+}
+.video-play-button:hover:after {
+  background-color: #5f4c8b;
+}
+.video-overlay-close:hover {
+  color: #5f4c8b;
+}
+.about-info h5 span,
+.about_history h5 span {
+    color: #5f4c8b;
+}
+.feature-box:after {
+  border-right: 3px solid #5f4c8b;
+  border-bottom: 3px solid #5f4c8b;
+}
+.feature-box:before {
+  border-top: 3px solid #5f4c8b;
+  border-left: 3px solid #5f4c8b;
+}
+.feature-icon i {
+  color: #5f4c8b;
+}
+
+.protfolio-filter li {
+  border: 2px solid #5f4c8b;
+}
+.protfolio-filter li:hover {
+  background: #5f4c8b;
+}
+
+.protfolio-filter li.active {
+  background: #5f4c8b;
+}
+
+.portfolio-category a:hover {
+  color: #5f4c8b;
+}
+.progress .progress-bar {
+  background-color: #5f4c8b;
+}
+
+
+#team .team_slider_item_info ul li a i:hover {
+  color: #5f4c8b;
+}
+
+.blogs .blog-box .blog-details h3 a:hover {
+  color: #5f4c8b;
+}
+.blogs .blog-box .blog-details .meta li a:hover {
+  color: #5f4c8b;
+}
+.all_blogs.blogs .blog-box:hover .blog-images .box {
+  background: #5f4c8b;
+}
+.blog-details .btn:hover {
+  color: #5f4c8b;
+}
+.blog-details .btn:hover i {
+  color: #5f4c8b;
+}
+.consultation-form .img-box {
+  background: #5f4c8b;
+
+}
+.contact-address {
+  background: #5f4c8b;
+}
+#copyright a:hover {
+  color: #5f4c8b;
+}
+.back-top-btn {
+  background: #5f4c8b;
+}
+.slick-next:before
+{
+    color: #5f4c8b;
+border: 0px solid #5f4c8b;
+}
+.slick-prev:before
+{
+    color: #5f4c8b;
+    border: 0px solid #5f4c8b;
+}
+
+#loader-wrapper .loader-section {
+  background: #5f4c8b;
+}
+
+#slider1 .silder .owl-nav div:hover,
+#slider1 .portfolio-slide .owl-nav div:hover,
+#slider1 .related-port .owl-nav div:hover {
+    background-color: #5f4c8b;
+}
+#slider1 .silder .owl-nav div,
+#slider1 .portfolio-slide .owl-nav div {
+    border: 2px solid #5f4c8b;
+}
+
+.slick-prev:hover::before, .slick-prev:focus::before, .slick-next:hover::before, .slick-next:focus::before {
+  color: #5f4c8b;
+
+}
+.protfolio-filter li {
+  border: 2px solid #5f4c8b!important;
+
+}
+.protfolio-filter li,
+#testimonial .slick-arrow i
+{
+  color: #5f4c8b;
+}
+.item-thumbnail::before {
+  background:  rgb(1, 57, 144, 0.8);
+}
+#testimonial .slick-arrow {
+  border: 2px solid #5f4c8b;;
+}
+#testimonial .slick-arrow:hover {
+  background: #5f4c8b;
+}
+#team .team_slider_item:hover .t-box {
+  background:  rgb(1, 57, 144, 0.9);
+}
+
+nav.navbar-fixed .nav-link::before {
+  background: #5f4c8b;
+}
+
+@media (max-width: 991px){
+  nav ul li .nav-link.active {
+    color: #5f4c8b!important;
+}
+  nav.navbar-fixed ul li .nav-link.active {
+    color: #5f4c8b!important;
+}
+}
+iframe {
+  max-width: 100%; /* Ensure iframes don't exceed their container */
+  display: block; /* Remove inline gaps */
+}
+
+
+
+  /* Full-page section */
+       
